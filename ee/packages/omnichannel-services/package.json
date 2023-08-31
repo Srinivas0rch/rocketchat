@@ -28,7 +28,7 @@
 		"mem": "^8.1.1",
 		"moment-timezone": "^0.5.34",
 		"mongo-message-queue": "^1.0.0",
-		"mongodb": "^4.12.1",
+		"mongodb": "^4.17.0",
 		"pino": "^8.4.2"
 	},
 	"scripts": {
