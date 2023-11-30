@@ -30,7 +30,7 @@
 	],
 	"dependencies": {
 		"@rocket.chat/core-services": "workspace:^",
-		"@rocket.chat/core-typings": "workspace:^",
+		"@rocket.chat/core-typings": "6.3.0",
 		"@rocket.chat/models": "workspace:^",
 		"mongodb": "^4.12.1"
 	}
